@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to Learning Github
 
 _Get started using GitHub in less than an hour._
 
